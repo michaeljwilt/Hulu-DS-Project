@@ -4,6 +4,8 @@ An Analysis of the impact of IMDB Scores and TMDB Popularity on the season lengt
 
 To view the code and all its output, please open the "Hulu Project Jupyter" File
 
+Click here to view the Tableau [Dashboard](https://public.tableau.com/views/HuluTableauDashboard/HuluDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 To view initial code in RStudio, please open the "Hulu Project.R" file
 
 The purpose of this project was to determine what we could about these 2 variables:
