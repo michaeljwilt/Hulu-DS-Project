@@ -1,4 +1,4 @@
-Thanks for chekcing out my project!
+Thanks for checking out my project!
 
 Click here to view the Tableau [Dashboard](https://public.tableau.com/views/HuluTableauDashboard/HuluDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
